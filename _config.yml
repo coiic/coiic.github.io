@@ -1,6 +1,6 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            "cooic 개발일지"
+longtitle:        "cooic 개발일지"
 author:           HE Tao
 email:            sighingnow@gmail.com
 description: >
@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              "https://coiic.github.io"
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
@@ -70,5 +70,5 @@ regenerate:       true
 
 plugins:
   - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+  - jekyll-remote-theme
+  - jekyll-seo-tag
