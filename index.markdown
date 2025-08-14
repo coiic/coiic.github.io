@@ -1,5 +1,5 @@
 ---
-layout:home
+layout: home
 title: "Coiic 개발일기"
 permalink: /
 ---
